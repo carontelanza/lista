@@ -1,0 +1,20 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="bbc1.uk" tvg-name="[UK] [4K] BBC 1 HD" tvg-logo="http://logourl.net/4KOTTLOGO/UNITED-KINGDOM/BBC1.png" group-title="[UK] GENERAL",[UK] [4K] BBC 1 HD
+http://192.168.1.166:9000/bysid/6370
+#EXTINF:-1 tvg-ID="bbc2.uk" tvg-name="[UK] [4K] BBC 2 HD" tvg-logo="http://logourl.net/4KOTTLOGO/UNITED-KINGDOM/BBC2.png" group-title="[UK] GENERAL",[UK] [4K] BBC 2 HD
+http://192.168.1.166:9000/bysid/6371
+#EXTINF:-1 tvg-ID="cbbc.uk" tvg-name="[UK] [4K] BBC 3/CBBC HD" tvg-logo="http://logourl.net/4KOTTLOGO/UNITED-KINGDOM/UK.GENERAL/BBC3.png" group-title="[UK] GENERAL",[UK] [4K] BBC 3/CBBC HD
+http://192.168.1.166:9000/bysid/6372
+#EXTINF:-1 tvg-ID="bbc4.uk" tvg-name="[UK] [4K] BBC 4/CBEEBIES HD" tvg-logo="http://logourl.net/4KOTTLOGO/UNITED-KINGDOM/UK.GENERAL/BBC4.png" group-title="[UK] GENERAL",[UK] [4K] BBC 4/CBEEBIES HD
+http://192.168.1.166:9000/bysid/6373
+#EXTINF:-1 tvg-ID="bbcscotland.uk" tvg-name="[UK] [4K] BBC SCOTLAND HD" tvg-logo="http://logourl.net/4KOTTLOGO/UNITED-KINGDOM/UK.GENERAL/BBCSCOTLAND.png" group-title="[UK] GENERAL",[UK] [4K] BBC SCOTLAND HD
+http://192.168.1.166:9000/bysid/6374
+#EXTINF:-1 tvg-ID="itv1.uk" tvg-name="[UK] [4K] ITV 1 HD" tvg-logo="http://logourl.net/4KOTTLOGO/UNITED-KINGDOM/UK.GENERAL/ITV.png" group-title="[UK] GENERAL",[UK] [4K] ITV 1 HD
+http://192.168.1.166:9000/bysid/6384
+#EXTINF:-1 tvg-ID="itv2.uk" tvg-name="[UK] [4K] ITV 2 HD" tvg-logo="http://logourl.net/4KOTTLOGO/UNITED-KINGDOM/UK.GENERAL/ITV2.png" group-title="[UK] GENERAL",[UK] [4K] ITV 2 HD
+http://192.168.1.166:9000/bysid/6385
+#EXTINF:-1 tvg-ID="itv3.uk" tvg-name="[UK] [4K] ITV 3 HD" tvg-logo="http://logourl.net/4KOTTLOGO/UNITED-KINGDOM/UK.GENERAL/ITV3.png" group-title="[UK] GENERAL",[UK] [4K] ITV 3 HD
+http://192.168.1.166:9000/bysid/6389
+#EXTINF:-1 tvg-ID="itv4.uk" tvg-name="[UK] [4K] ITV 4 HD" tvg-logo="http://logourl.net/4KOTTLOGO/UNITED-KINGDOM/UK.GENERAL/ITV4.png" group-title="[UK] GENERAL",[UK] [4K] ITV 4 HD
+http://192.168.1.166:9000/bysid/6393
+
