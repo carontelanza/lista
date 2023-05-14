@@ -1,15 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 , tvg-chno="1" tvg-id="5SELECT" tvg-logo="https://media.info/i/lf/0/1645195749/6254.png", 5SELECT
-udp://@239.100.100.9:1234
-#EXTINF:-1 , tvg-chno="2" tvg-id="5SELECT" tvg-logo="https://media.info/i/lf/0/1645195749/6254.png", 5SELECT
-udp://@239.100.100.10:1234
-#EXTINF:-1 , tvg-chno="3" tvg-id="5SELECT" tvg-logo="https://media.info/i/lf/0/1645195749/6254.png", 5SELECT
-udp://@239.100.100.11:1234
-#EXTINF:-1 , tvg-chno="4" tvg-id="5SELECT" tvg-logo="https://media.info/i/lf/0/1645195749/6254.png", 5SELECT
-udp://@239.100.100.12:1234
-#EXTINF:-1 , tvg-chno="5" tvg-id="5SELECT" tvg-logo="https://media.info/i/lf/0/1645195749/6254.png", 5SELECT
-udp://@239.100.104.3:1234
+
 #EXTINF:-1 , tvg-chno="6" tvg-id="5SELECT" tvg-logo="https://media.info/i/lf/0/1645195749/6254.png", 5SELECT
 udp://@239.100.104.4:1234
 #EXTINF:-1 , tvg-chno="7" tvg-id="5SELECT" tvg-logo="https://media.info/i/lf/0/1645195749/6254.png", 5SELECT
