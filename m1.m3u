@@ -1,0 +1,106 @@
+#EXTM3U
+
+#EXTINF:-1 , tvg-chno="2" tvg-id="BBC FOUR" tvg-logo="https://www.logolynx.com/images/logolynx/42/42f115d77ab75d627754155110bad0d6.jpeg", BBC FOUR
+http://192.168.1.190:9000/bysid/10351
+
+#EXTINF:-1 , tvg-chno="3" tvg-id="BBC NEWS" tvg-logo="https://i.pinimg.com/originals/ba/84/b9/ba84b9c41584e19ef4d9b6a5bf7a3069.jpg", BBC NEWS
+http://192.168.1.190:9000/bysid/10352
+
+#EXTINF:-1 , tvg-chno="4" tvg-id="BBC ONE" tvg-logo="https://i.pinimg.com/originals/ba/84/b9/ba84b9c41584e19ef4d9b6a5bf7a3069.jpg", BBC ONE
+http://192.168.1.190:9000/bysid/10353
+
+#EXTINF:-1 , tvg-chno="5" tvg-id="BBC THREE" tvg-logo="https://www.logolynx.com/images/logolynx/e4/e4f8198fb672b576755a53dab27cc1ba.jpeg", BBC THREE
+http://192.168.1.190:9000/bysid/10354
+
+#EXTINF:-1 , tvg-chno="6" tvg-id="BBC TWO" tvg-logo="https://www.logolynx.com/images/logolynx/0b/0b06826cf9d4686b56f708c82069c22f.jpeg", BBC TWO
+http://192.168.1.190:9000/bysid/10355
+
+#EXTINF:-1 , tvg-chno="7" tvg-id="CHANNEL 4" tvg-logo="https://www.logolynx.com/images/logolynx/62/62001cf2b136ff3a355d29711cd403e8.jpeg", CHANNEL 4
+http://192.168.1.190:9000/bysid/10356
+
+#EXTINF:-1 , tvg-chno="8" tvg-id="CHANNEL 4" tvg-logo="https://www.logolynx.com/images/logolynx/62/62001cf2b136ff3a355d29711cd403e8.jpeg", CHANNEL 4
+http://192.168.1.190:9000/bysid/10357
+
+#EXTINF:-1 , tvg-chno="9" tvg-id="CHANNEL 4" tvg-logo="https://www.logolynx.com/images/logolynx/62/62001cf2b136ff3a355d29711cd403e8.jpeg", 
+CHANNEL 4
+http://192.168.1.190:9000/bysid/10358
+
+#EXTINF:-1 , tvg-chno="10" tvg-id="CHANNEL 4" tvg-logo="https://www.logolynx.com/images/logolynx/62/62001cf2b136ff3a355d29711cd403e8.jpeg", CHANNEL 4
+http://192.168.1.190:9000/bysid/10359
+
+#EXTINF:-1 , tvg-chno="11" tvg-id="CHANNEL 4" tvg-logo="https://www.logolynx.com/images/logolynx/62/62001cf2b136ff3a355d29711cd403e8.jpeg", CHANNEL 4
+http://192.168.1.190:9000/bysid/10360
+
+#EXTINF:-1 , tvg-chno="12" tvg-id="CHANNEL 4" tvg-logo="https://www.logolynx.com/images/logolynx/62/62001cf2b136ff3a355d29711cd403e8.jpeg", CHANNEL 4
+http://192.168.1.190:9000/bysid/10361
+
+#EXTINF:-1 , tvg-chno="13" tvg-id="CHANNEL 4" tvg-logo="https://www.logolynx.com/images/logolynx/62/62001cf2b136ff3a355d29711cd403e8.jpeg", CHANNEL 4
+http://192.168.1.190:9000/bysid/10362
+
+#EXTINF:-1 , tvg-chno="14" tvg-id="CHANNEL 4" tvg-logo="https://www.logolynx.com/images/logolynx/62/62001cf2b136ff3a355d29711cd403e8.jpeg", CHANNEL 4
+http://192.168.1.190:9000/bysid/10363
+
+#EXTINF:-1 , tvg-chno="15" tvg-id="CHANNEL 4" tvg-logo="https://www.logolynx.com/images/logolynx/62/62001cf2b136ff3a355d29711cd403e8.jpeg", CHANNEL 4
+http://192.168.1.190:9000/bysid/10364
+
+#EXTINF:-1 , tvg-chno="16" tvg-id="CHANNEL 4" tvg-logo="https://www.logolynx.com/images/logolynx/62/62001cf2b136ff3a355d29711cd403e8.jpeg", CHANNEL 4
+http://192.168.1.190:9000/bysid/10365
+
+#EXTINF:-1 , tvg-chno="17" tvg-id="CHANNEL 4" tvg-logo="https://www.logolynx.com/images/logolynx/62/62001cf2b136ff3a355d29711cd403e8.jpeg", CHANNEL 4
+http://192.168.1.190:9000/bysid/10366
+
+
+
+#EXTINF:-1 , tvg-chno="18" tvg-id="CHANNEL 4" tvg-logo="https://www.logolynx.com/images/logolynx/62/62001cf2b136ff3a355d29711cd403e8.jpeg", CHANNEL 4
+http://192.168.1.190:9000/bysid/10401
+
+#EXTINF:-1 , tvg-chno="19" tvg-id="CHANNEL 4" tvg-logo="https://www.logolynx.com/images/logolynx/62/62001cf2b136ff3a355d29711cd403e8.jpeg", CHANNEL 4
+http://192.168.1.190:9000/bysid/10402
+
+#EXTINF:-1 , tvg-chno="20" tvg-id="CHANNEL 4" tvg-logo="https://www.logolynx.com/images/logolynx/62/62001cf2b136ff3a355d29711cd403e8.jpeg", CHANNEL 4
+http://192.168.1.190:9000/bysid/10403
+
+
+
+#EXTINF:-1 , tvg-chno="21" tvg-id="CHANNEL 4" tvg-logo="https://www.logolynx.com/images/logolynx/62/62001cf2b136ff3a355d29711cd403e8.jpeg", CHANNEL 4
+http://192.168.1.190:9000/bysid/10501
+
+#EXTINF:-1 , tvg-chno="22" tvg-id="CHANNEL 4" tvg-logo="https://www.logolynx.com/images/logolynx/62/62001cf2b136ff3a355d29711cd403e8.jpeg", CHANNEL 4
+http://192.168.1.190:9000/bysid/10502
+
+#EXTINF:-1 , tvg-chno="23" tvg-id="CHANNEL 4" tvg-logo="https://www.logolynx.com/images/logolynx/62/62001cf2b136ff3a355d29711cd403e8.jpeg", CHANNEL 4
+http://192.168.1.190:9000/bysid/10503
+
+#EXTINF:-1 , tvg-chno="24" tvg-id="CHANNEL 4" tvg-logo="https://www.logolynx.com/images/logolynx/62/62001cf2b136ff3a355d29711cd403e8.jpeg", CHANNEL 4
+http://192.168.1.190:9000/bysid/10504
+
+#EXTINF:-1 , tvg-chno="25" tvg-id="CHANNEL 4" tvg-logo="https://www.logolynx.com/images/logolynx/62/62001cf2b136ff3a355d29711cd403e8.jpeg", CHANNEL 4
+http://192.168.1.190:9000/bysid/10505
+
+
+
+#EXTINF:-1 , tvg-chno="26" tvg-id="CHANNEL 4" tvg-logo="https://www.logolynx.com/images/logolynx/62/62001cf2b136ff3a355d29711cd403e8.jpeg", CHANNEL 4
+http://192.168.1.190:9000/bysid/10501
+
+#EXTINF:-1 , tvg-chno="27" tvg-id="CHANNEL 4" tvg-logo="https://www.logolynx.com/images/logolynx/62/62001cf2b136ff3a355d29711cd403e8.jpeg", CHANNEL 4
+http://192.168.1.190:9000/bysid/10502
+
+#EXTINF:-1 , tvg-chno="28" tvg-id="CHANNEL 4" tvg-logo="https://www.logolynx.com/images/logolynx/62/62001cf2b136ff3a355d29711cd403e8.jpeg", CHANNEL 4
+http://192.168.1.190:9000/bysid/10503
+
+#EXTINF:-1 , tvg-chno="29" tvg-id="CHANNEL 4" tvg-logo="https://www.logolynx.com/images/logolynx/62/62001cf2b136ff3a355d29711cd403e8.jpeg", CHANNEL 4
+http://192.168.1.190:9000/bysid/10504
+
+#EXTINF:-1 , tvg-chno="30" tvg-id="CHANNEL 4" tvg-logo="https://www.logolynx.com/images/logolynx/62/62001cf2b136ff3a355d29711cd403e8.jpeg", CHANNEL 4
+http://192.168.1.190:9000/bysid/10505
+
+
+
+#EXTINF:-1 , tvg-chno="31" tvg-id="CHANNEL 4" tvg-logo="https://www.logolynx.com/images/logolynx/62/62001cf2b136ff3a355d29711cd403e8.jpeg", CHANNEL 4
+http://192.168.1.190:9000/bysid/10601
+
+#EXTINF:-1 , tvg-chno="32" tvg-id="CHANNEL 4" tvg-logo="https://www.logolynx.com/images/logolynx/62/62001cf2b136ff3a355d29711cd403e8.jpeg", CHANNEL 4
+http://192.168.1.190:9000/bysid/10602
+
+#EXTINF:-1 , tvg-chno="33" tvg-id="CHANNEL 4" tvg-logo="https://www.logolynx.com/images/logolynx/62/62001cf2b136ff3a355d29711cd403e8.jpeg", CHANNEL 4
+http://192.168.1.190:9000/bysid/10603
