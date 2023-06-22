@@ -1,4 +1,0 @@
-#EXTM3U
-
-#EXTINF:-1 , tvg-chno="5" tvg-id="5SELECT" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/6/6254.1518542338.png", 5SELECT
-http://192.168.1.190:9000/bysid/10352.m3u8
