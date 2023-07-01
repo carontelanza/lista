@@ -46,3 +46,39 @@ http://192.168.1.190:9000/bysid/106
 #EXTINF:-1 , tvg-chno="15" tvg-id="TRT World" tvg-logo="http://iptvsystem.net/TRTWORLD.jpg", TRT World
 http://192.168.1.190:9000/bysid/115
 
+#EXTINF:-1 , tvg-chno="16" tvg-id="SKY NEWS" tvg-logo="http://iptvsystem.net/sky.jpg", SKY NEWS
+http://192.168.1.190:9000/bysid/118
+
+#EXTINF:-1 , tvg-chno="17" tvg-id="BLOOMBERG TV" tvg-logo="http://iptvsystem.net/bloom.jpg", BLOOMBERG TV
+http://192.168.1.190:9000/bysid/117
+
+
+#EXTINF:-1 , tvg-chno="18" tvg-id="WDR AACHEN" tvg-logo="http://iptvsystem.net/wdr1.jpg", WDR AACHEN
+http://192.168.1.190:9000/bysid/201
+
+#EXTINF:-1 , tvg-chno="19" tvg-id="ARD alpha HD" tvg-logo="http://iptvsystem.net/ard1.jpg", ARD alpha HD
+http://192.168.1.190:9000/bysid/203
+
+#EXTINF:-1 , tvg-chno="20" tvg-id="24 HD" tvg-logo="http://iptvsystem.net/24.jpg", 24 HD
+http://192.168.1.190:9000/bysid/204
+
+#EXTINF:-1 , tvg-chno="21" tvg-id="ONE 1 HD" tvg-logo="http://iptvsystem.net/one.jpg", ONE 1 HD
+http://192.168.1.190:9000/bysid/205
+
+#EXTINF:-1 , tvg-chno="22" tvg-id="WDR BONN" tvg-logo="http://iptvsystem.net/wdr.jpg", WDR BONN
+http://192.168.1.190:9000/bysid/202
+
+#EXTINF:-1 , tvg-chno="23" tvg-id="RADIO BREMEN" tvg-logo="http://iptvsystem.net/radiob.jpg", RADIO BREMEN
+http://192.168.1.190:9000/bysid/206
+
+#EXTINF:-1 , tvg-chno="24" tvg-id="SR HD" tvg-logo="http://iptvsystem.net/sr1.jpg", SR HD
+http://192.168.1.190:9000/bysid/206
+
+#EXTINF:-1 , tvg-chno="25" tvg-id="ARTE HD" tvg-logo="http://iptvsystem.net/arte.jpg", ARTE HD
+http://192.168.1.190:9000/bysid/209
+
+#EXTINF:-1 , tvg-chno="26" tvg-id="ONE HD" tvg-logo="http://iptvsystem.net/one0.jpg", ONE HD
+http://192.168.1.190:9000/bysid/210
+
+#EXTINF:-1 , tvg-chno="27" tvg-id="SWR HD" tvg-logo="http://iptvsystem.net/swr.jpg", SWR HD
+http://192.168.1.190:9000/bysid/211
