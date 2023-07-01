@@ -1,0 +1,48 @@
+#EXTM3U
+
+#EXTINF:-1 , tvg-chno="1" tvg-id="5SELECT" tvg-logo="http://iptvsystem.net/5select.jpg", 5SELECT
+http://192.168.1.190:9000/bysid/101
+
+#EXTINF:-1 , tvg-chno="2" tvg-id="BBC NEWS" tvg-logo="http://iptvsystem.net/bbcnew.jpg", BBC NEWS
+http://192.168.1.190:9000/bysid/103
+
+#EXTINF:-1 , tvg-chno="3" tvg-id="Channel 4 HD" tvg-logo="http://iptvsystem.net/channel%204.jpg", Channel 4 HD
+http://192.168.1.190:9000/bysid/111
+
+#EXTINF:-1 , tvg-chno="4" tvg-id="BBC ONE" tvg-logo="http://iptvsystem.net/bbcone.jpg", BBC ONE
+http://192.168.1.190:9000/bysid/104
+
+#EXTINF:-1 , tvg-chno="5" tvg-id="BBC TWO" tvg-logo="http://iptvsystem.net/bbc2.jpg", BBC TWO
+http://192.168.1.190:9000/bysid/110
+
+#EXTINF:-1 , tvg-chno="6" tvg-id="BBC THREE" tvg-logo="http://iptvsystem.net/bbc%203.jpg", BBC THREE
+http://192.168.1.190:9000/bysid/109
+
+#EXTINF:-1 , tvg-chno="7" tvg-id="BBC FOUR HD" tvg-logo="http://iptvsystem.net/bb4.jpg", BBC FOUR HD
+http://192.168.1.190:9000/bysid/102
+
+#EXTINF:-1 , tvg-chno="8" tvg-id="Channel 5 HD" tvg-logo="http://iptvsystem.net/channel%205.jpg", Channel 5 HD
+http://192.168.1.190:9000/bysid/112
+
+#EXTINF:-1 , tvg-chno="9" tvg-id="BBC One Northern Ireland" tvg-logo="http://iptvsystem.net/bbconeNI.jpg", BBC One Northern Ireland
+http://192.168.1.190:9000/bysid/105
+
+#EXTINF:-1 , tvg-chno="10" tvg-id="ITV1" tvg-logo="http://iptvsystem.net/itv1.jpg", ITV1
+http://192.168.1.190:9000/bysid/113
+
+#EXTINF:-1 , tvg-chno="11" tvg-id="BBC ONE Wales" tvg-logo="http://iptvsystem.net/bbcwales.jpg", BBC ONE Wales
+http://192.168.1.190:9000/bysid/107
+
+#EXTINF:-1 , tvg-chno="12" tvg-id="BBC RB" tvg-logo="http://iptvsystem.net/bbcred.jpg", BBC RB
+http://192.168.1.190:9000/bysid/108
+
+
+#EXTINF:-1 , tvg-chno="13" tvg-id="TBN UK" tvg-logo="http://iptvsystem.net/TBNUK.jpg", TBN UK
+http://192.168.1.190:9000/bysid/114
+
+#EXTINF:-1 , tvg-chno="14" tvg-id="BBC One Scotland" tvg-logo="http://iptvsystem.net/bbccotland.jpg", BBC One Scotland
+http://192.168.1.190:9000/bysid/106
+
+#EXTINF:-1 , tvg-chno="15" tvg-id="TRT World" tvg-logo="http://iptvsystem.net/TRTWORLD.jpg", TRT World
+http://192.168.1.190:9000/bysid/115
+
