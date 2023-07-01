@@ -24,61 +24,56 @@ http://192.168.1.190:9000/bysid/102
 #EXTINF:-1 , tvg-chno="8" tvg-id="Channel 5 HD" tvg-logo="http://iptvsystem.net/channel%205.jpg", Channel 5 HD
 http://192.168.1.190:9000/bysid/112
 
-#EXTINF:-1 , tvg-chno="9" tvg-id="BBC One Northern Ireland" tvg-logo="http://iptvsystem.net/bbconeNI.jpg", BBC One Northern Ireland
+#EXTINF:-1 , tvg-chno="9" tvg-id="One Northern Ireland BBC " tvg-logo="http://iptvsystem.net/bbconeNI.jpg", One Northern Ireland BBC 
 http://192.168.1.190:9000/bysid/105
 
 #EXTINF:-1 , tvg-chno="10" tvg-id="ITV1" tvg-logo="http://iptvsystem.net/itv1.jpg", ITV1
 http://192.168.1.190:9000/bysid/113
 
-#EXTINF:-1 , tvg-chno="11" tvg-id="BBC ONE Wales" tvg-logo="http://iptvsystem.net/bbcwales.jpg", BBC ONE Wales
+#EXTINF:-1 , tvg-chno="11" tvg-id="Wales BBC ONE " tvg-logo="http://iptvsystem.net/bbcwales.jpg", Wales BBC ONE 
 http://192.168.1.190:9000/bysid/107
 
-#EXTINF:-1 , tvg-chno="12" tvg-id="BBC RB" tvg-logo="http://iptvsystem.net/bbcred.jpg", BBC RB
+#EXTINF:-1 , tvg-chno="12" tvg-id="RED BUTTON" tvg-logo="http://iptvsystem.net/bbcred.jpg", RED BUTTON
 http://192.168.1.190:9000/bysid/108
-
 
 #EXTINF:-1 , tvg-chno="13" tvg-id="TBN UK" tvg-logo="http://iptvsystem.net/TBNUK.jpg", TBN UK
 http://192.168.1.190:9000/bysid/114
 
-#EXTINF:-1 , tvg-chno="14" tvg-id="BBC One Scotland" tvg-logo="http://iptvsystem.net/bbccotland.jpg", BBC One Scotland
+#EXTINF:-1 , tvg-chno="14" tvg-id="Scotland BBC One " tvg-logo="http://iptvsystem.net/bbccotland.jpg", Scotland BBC One 
 http://192.168.1.190:9000/bysid/106
 
-#EXTINF:-1 , tvg-chno="15" tvg-id="TRT World" tvg-logo="http://iptvsystem.net/TRTWORLD.jpg", TRT World
-http://192.168.1.190:9000/bysid/115
-
-#EXTINF:-1 , tvg-chno="16" tvg-id="SKY NEWS" tvg-logo="http://iptvsystem.net/sky.jpg", SKY NEWS
+#EXTINF:-1 , tvg-chno="15" tvg-id="SKY NEWS" tvg-logo="http://iptvsystem.net/sky.jpg", SKY NEWS
 http://192.168.1.190:9000/bysid/118
 
-#EXTINF:-1 , tvg-chno="17" tvg-id="BLOOMBERG TV" tvg-logo="http://iptvsystem.net/bloom.jpg", BLOOMBERG TV
+#EXTINF:-1 , tvg-chno="16" tvg-id="BLOOMBERG TV" tvg-logo="http://iptvsystem.net/bloom.jpg", BLOOMBERG TV
 http://192.168.1.190:9000/bysid/117
 
-
-#EXTINF:-1 , tvg-chno="18" tvg-id="WDR AACHEN" tvg-logo="http://iptvsystem.net/wdr1.jpg", WDR AACHEN
+#EXTINF:-1 , tvg-chno="17" tvg-id="WDR AACHEN" tvg-logo="http://iptvsystem.net/wdr1.jpg", WDR AACHEN
 http://192.168.1.190:9000/bysid/201
 
-#EXTINF:-1 , tvg-chno="19" tvg-id="ARD alpha HD" tvg-logo="http://iptvsystem.net/ard1.jpg", ARD alpha HD
+#EXTINF:-1 , tvg-chno="18" tvg-id="ARD alpha HD" tvg-logo="http://iptvsystem.net/ard1.jpg", ARD alpha HD
 http://192.168.1.190:9000/bysid/203
 
-#EXTINF:-1 , tvg-chno="20" tvg-id="24 HD" tvg-logo="http://iptvsystem.net/24.jpg", 24 HD
+#EXTINF:-1 , tvg-chno="19" tvg-id="24 HD" tvg-logo="http://iptvsystem.net/24.jpg", 24 HD
 http://192.168.1.190:9000/bysid/204
 
-#EXTINF:-1 , tvg-chno="21" tvg-id="ONE 1 HD" tvg-logo="http://iptvsystem.net/one.jpg", ONE 1 HD
+#EXTINF:-1 , tvg-chno="20" tvg-id="ONE 1 HD" tvg-logo="http://iptvsystem.net/one.jpg", ONE 1 HD
 http://192.168.1.190:9000/bysid/205
 
-#EXTINF:-1 , tvg-chno="22" tvg-id="WDR BONN" tvg-logo="http://iptvsystem.net/wdr.jpg", WDR BONN
+#EXTINF:-1 , tvg-chno="21" tvg-id="BONN WDR " tvg-logo="http://iptvsystem.net/wdr.jpg", BONN WDR 
 http://192.168.1.190:9000/bysid/202
 
-#EXTINF:-1 , tvg-chno="23" tvg-id="RADIO BREMEN" tvg-logo="http://iptvsystem.net/radiob.jpg", RADIO BREMEN
+#EXTINF:-1 , tvg-chno="22" tvg-id="RADIO BREMEN" tvg-logo="http://iptvsystem.net/radiob.jpg", RADIO BREMEN
 http://192.168.1.190:9000/bysid/206
 
-#EXTINF:-1 , tvg-chno="24" tvg-id="SR HD" tvg-logo="http://iptvsystem.net/sr1.jpg", SR HD
+#EXTINF:-1 , tvg-chno="23" tvg-id="SR HD" tvg-logo="http://iptvsystem.net/sr1.jpg", SR HD
 http://192.168.1.190:9000/bysid/206
 
-#EXTINF:-1 , tvg-chno="25" tvg-id="ARTE HD" tvg-logo="http://iptvsystem.net/arte.jpg", ARTE HD
+#EXTINF:-1 , tvg-chno="24" tvg-id="ARTE HD" tvg-logo="http://iptvsystem.net/arte.jpg", ARTE HD
 http://192.168.1.190:9000/bysid/209
 
-#EXTINF:-1 , tvg-chno="26" tvg-id="ONE HD" tvg-logo="http://iptvsystem.net/one0.jpg", ONE HD
+#EXTINF:-1 , tvg-chno="25" tvg-id="ONE HD" tvg-logo="http://iptvsystem.net/one0.jpg", ONE HD
 http://192.168.1.190:9000/bysid/210
 
-#EXTINF:-1 , tvg-chno="27" tvg-id="SWR HD" tvg-logo="http://iptvsystem.net/swr.jpg", SWR HD
+#EXTINF:-1 , tvg-chno="26" tvg-id="SWR HD" tvg-logo="http://iptvsystem.net/swr.jpg", SWR HD
 http://192.168.1.190:9000/bysid/211
