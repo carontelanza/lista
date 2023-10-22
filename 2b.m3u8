@@ -1,0 +1,172 @@
+#EXTM3U
+
+#EXTINF:-1 , tvg-chno="1" tvg-id="1 - INFORMACION / INFORMATION CHANNEL" tvg-logo="http://iptvsystem.net/EN.jpg", 1 - INFORMACION / INFORMATION CHANNEL
+http://192.168.1.190:9000/promo2b
+
+#EXTINF:-1 , tvg-chno="2" tvg-id="2 - ITV 1" tvg-logo="http://iptvsystem.net/EN.jpg", 2 - ITV1
+http://192.168.1.190:9000/sat/ITV1
+
+#EXTINF:-1 , tvg-chno="3" tvg-id="3 - BBC TWO" tvg-logo="http://iptvsystem.net/EN.jpg", 3 - BBC TWO
+http://192.168.1.190:9000/sat/BBC2
+
+#EXTINF:-1 , tvg-chno="4" tvg-id="4 - BBC NEWS" tvg-logo="http://iptvsystem.net/EN.jpg", 4 - BBC NEWS
+http://192.168.1.190:9000/sat/BBCN
+
+#EXTINF:-1 , tvg-chno="5" tvg-id="5 - CHANNEL 4 HD" tvg-logo="http://iptvsystem.net/EN.jpg", 5 - CHANNEL 4
+http://192.168.1.190:9000/sat/CH4
+
+#EXTINF:-1 , tvg-chno="6" tvg-id="6 - CHANNEL 5 HD" tvg-logo="http://iptvsystem.net/EN.jpg", 6 - CHANNEL 5
+http://192.168.1.190:9000/sat/CH4
+
+#EXTINF:-1 , tvg-chno="7" tvg-id="7 - DISNEY CHANNEL V.O." tvg-logo="http://iptvsystem.net/VO.jpg", 7 - DISNEY CHANNEL V.O.
+http://192.168.1.190/TDT/DISNEYVO
+
+#EXTINF:-1 , tvg-chno="8" tvg-id="8 - CNN NEWS" tvg-logo="http://iptvsystem.net/EN.jpg", 8 - CNN NEWS
+http://192.168.1.190/SAT/CNN
+
+#EXTINF:-1 , tvg-chno="9" tvg-id="9 - 5SELECT" tvg-logo="http://iptvsystem.net/EN.jpg", 9 - 5SELECT
+http://192.168.1.190:9000/sat/5SELECT
+
+#EXTINF:-1 , tvg-chno="10" tvg-id="10 - BBC ONE" tvg-logo="http://iptvsystem.net/EN.jpg", 10 - BBC ONE
+http://192.168.1.190:9000/sat/BBC1
+
+#EXTINF:-1 , tvg-chno="11" tvg-id="11 - SKY NEWS" tvg-logo="http://iptvsystem.net/EN.jpg", 11 - SKY NEWS
+http://192.168.1.190/SAT/SKY
+
+#EXTINF:-1 , tvg-chno="12" tvg-id="12 - A3SERIES V.O." tvg-logo="http://iptvsystem.net/VO.jpg", 12 - A3SERIES V.O.
+http://192.168.1.190/TDT/A3SERIESEN
+
+#EXTINF:-1 , tvg-chno="13" tvg-id="13 - TBN UK" tvg-logo="http://iptvsystem.net/EN.jpg", 13 - TBN UK
+http://192.168.1.190/SAT/TBN
+
+#EXTINF:-1 , tvg-chno="14" tvg-id="14 - BBC WALES" tvg-logo="http://iptvsystem.net/EN.jpg", 14 - BBC WALES
+http://192.168.1.190/SAT/BBCWALES
+
+#EXTINF:-1 , tvg-chno="15" tvg-id="15 - BOING V.O." tvg-logo="http://iptvsystem.net/VO.jpg", 15 - BOING V.O.
+http://192.168.1.190/TDT/BOINGEN
+
+#EXTINF:-1 , tvg-chno="16" tvg-id="16 - MEGA V.O." tvg-logo="http://iptvsystem.net/VO.jpg", 16 - MEGA V.O.
+http://192.168.1.190/TDT/MEGAEN
+
+#EXTINF:-1 , tvg-chno="17" tvg-id="17 - ENERGY V.O." tvg-logo="http://iptvsystem.net/VO.jpg", 17 - ENERGY V.O
+http://192.168.1.190/TDT/ENERGYEN
+
+#EXTINF:-1 , tvg-chno="18" tvg-id="18 - TRECE V.O." tvg-logo="http://iptvsystem.net/VO.jpg", 18 - TRECE V.O
+http://192.168.1.190/TDT/TRECEEN
+
+#EXTINF:-1 , tvg-chno="19" tvg-id="19 - NEOX V.O." tvg-logo="http://iptvsystem.net/VO.jpg", 19 - NEOX V.O
+http://192.168.1.190/TDT/NEOXVO
+
+#EXTINF:-1 , tvg-chno="20" tvg-id="20 - NOVA V.O." tvg-logo="http://iptvsystem.net/VO.jpg", 20 - NOVA V.O
+http://192.168.1.190/TDT/NOVAEN
+
+#EXTINF:-1 , tvg-chno="21" tvg-id="21 - DIVINITY V.O." tvg-logo="http://iptvsystem.net/VO.jpg", 21 - DIVINITY V.O
+http://192.168.1.190/TDT/DIVINITYVO
+
+#EXTINF:-1 , tvg-chno="22" tvg-id="22 - DW NEWS" tvg-logo="http://iptvsystem.net/EN.jpg", 22 - DW NEWS
+http://192.168.1.190/SAT/DWINGLES
+
+#EXTINF:-1 , tvg-chno="23" tvg-id="23 - BBC SCTOLAND" tvg-logo="http://iptvsystem.net/EN.jpg", 23 - BBC SCTOLAND
+http://192.168.1.190/SAT/BBCSCOT
+
+#EXTINF:-1 , tvg-chno="24" tvg-id="24 - PARAMOUNT NETWORK V.O." tvg-logo="http://iptvsystem.net/VO.jpg", 24 - PARAMOUNT NETWORK V.O.
+http://192.168.1.190/TDT/PARAMONTVO
+
+#EXTINF:-1 , tvg-chno="25" tvg-id="25 - TEN V.O." tvg-logo="http://iptvsystem.net/VO.jpg", 25 - TEN V.O.
+http://192.168.1.190/TDT/TENVO
+
+#EXTINF:-1 , tvg-chno="31" tvg-id="26 - RTVE 1" tvg-logo="http://iptvsystem.net/ES.jpg", 26 - RTVE 1
+http://192.168.1.190/TDT/TVE1
+
+#EXTINF:-1 , tvg-chno="32" tvg-id="27 - RTVE 2" tvg-logo="http://iptvsystem.net/ES.jpg", 27 - RTVE 2
+http://192.168.1.190/TDT/TVE2
+
+#EXTINF:-1 , tvg-chno="33" tvg-id="28 - RTVE 24 HORAS" tvg-logo="http://iptvsystem.net/ES.jpg", 28 - RTVE 24 HORAS
+http://192.168.1.190/TDT/24H
+
+#EXTINF:-1 , tvg-chno="34" tvg-id="29 - Disney Channel" tvg-logo="http://iptvsystem.net/ES.jpg", 29 - Disney Channel
+http://192.168.1.190/TDT/DISNEY
+
+#EXTINF:-1 , tvg-chno="35" tvg-id="30 - DMAX" tvg-logo="http://iptvsystem.net/ES.jpg", 30 - DMAX
+http://192.168.1.190/TDT/DMAX
+
+#EXTINF:-1 , tvg-chno="36" tvg-id="31 - PARAMOUNT NETWORK" tvg-logo="http://iptvsystem.net/ES.jpg", 31 - PARAMOUNT NETWORK
+http://192.168.1.190/TDT/PARAMONT
+
+#EXTINF:-1 , tvg-chno="37" tvg-id="32 - BOING" tvg-logo="http://iptvsystem.net/ES.jpg", 32 - BOING
+http://192.168.1.190/TDT/BOING
+
+#EXTINF:-1 , tvg-chno="38" tvg-id="33 - NOVA" tvg-logo="http://iptvsystem.net/ES.jpg", 33 - NOVA
+http://192.168.1.190/TDT/NOVA
+
+#EXTINF:-1 , tvg-chno="39" tvg-id="34 - ENERGY" tvg-logo="http://iptvsystem.net/ES.jpg", 34 - ENERGY
+http://192.168.1.190/TDT/ENERGY
+
+#EXTINF:-1 , tvg-chno="40" tvg-id="35 - MEGA" tvg-logo="http://iptvsystem.net/ES.jpg", 35 - MEGA
+http://192.168.1.190/TDT/MEGA
+
+#EXTINF:-1 , tvg-chno="41" tvg-id="36 - TRECE" tvg-logo="http://iptvsystem.net/ES.jpg", 36 - TRECE
+http://192.168.1.190/TDT/TRECE
+
+#EXTINF:-1 , tvg-chno="42" tvg-id="37 - CUATRO" tvg-logo="http://iptvsystem.net/ES.jpg", 37 - CUATRO
+http://192.168.1.190/TDT/CUATRO
+
+#EXTINF:-1 , tvg-chno="43" tvg-id="38 - TELECINCO" tvg-logo="http://iptvsystem.net/ES.jpg", 38 - TELECINCO
+http://192.168.1.190/TDT/TELE5
+
+#EXTINF:-1 , tvg-chno="44" tvg-id="39 - FDF" tvg-logo="http://iptvsystem.net/ES.jpg", 39 - FDF
+http://192.168.1.190/TDT/FDF
+
+#EXTINF:-1 , tvg-chno="45" tvg-id="40 - ANTENA 3" tvg-logo="http://iptvsystem.net/ES.jpg", 40 - ANTENA 3
+http://192.168.1.190/TDT/A3
+
+#EXTINF:-1 , tvg-chno="46" tvg-id="41 - NEOX" tvg-logo="http://iptvsystem.net/ES.jpg", 41 - NEOX
+http://192.168.1.190/TDT/NEOX
+
+#EXTINF:-1 , tvg-chno="47" tvg-id="42 - Cubavision Internacional" tvg-logo="http://iptvsystem.net/ES.jpg", 42 - Cubavision Internacional
+http://192.168.1.190/SAT/CUBA
+
+#EXTINF:-1 , tvg-chno="51" tvg-id="43 - MDR Sachsen HD" tvg-logo="http://iptvsystem.net/GER.jpg", 43 - MDR Sachsen HD
+http://192.168.1.190/SAT/HRFER
+
+#EXTINF:-1 , tvg-chno="52" tvg-id="44 - hr-fernsehen HD" tvg-logo="http://iptvsystem.net/GER.jpg", 44 - hr-fernsehen HD
+http://192.168.1.190/SAT/MDRS
+
+#EXTINF:-1 , tvg-chno="53" tvg-id="45 - rbb Berlin HD" tvg-logo="http://iptvsystem.net/GER.jpg", 45 - rbb Berlin HD
+http://192.168.1.190/SAT/RBBERLIN
+
+#EXTINF:-1 , tvg-chno="54" tvg-id="46 - ARD alpha HD" tvg-logo="http://iptvsystem.net/GER.jpg", 46 - ARD alpha HD
+http://192.168.1.190/SAT/ARD
+
+#EXTINF:-1 , tvg-chno="55" tvg-id="47 - Radio Bremen HD" tvg-logo="http://iptvsystem.net/GER.jpg", 47 - Radio Bremen HD
+http://192.168.1.190/SAT/RADIOB
+
+#EXTINF:-1 , tvg-chno="56" tvg-id="48 - tagesschau24 HD" tvg-logo="http://iptvsystem.net/GER.jpg", 48 - tagesschau24 HD
+http://192.168.1.190/SAT/TAGE
+
+#EXTINF:-1 , tvg-chno="57" tvg-id="49 - arte HD" tvg-logo="http://iptvsystem.net/GER.jpg", 49 - arte HD
+http://192.168.1.190/SAT/ARTE
+
+#EXTINF:-1 , tvg-chno="58" tvg-id="50 - Das Erste HD" tvg-logo="http://iptvsystem.net/GER.jpg", 50 - Das Erste HD
+http://192.168.1.190/SAT/DAS
+
+#EXTINF:-1 , tvg-chno="59" tvg-id="51 - ANIXE+" tvg-logo="http://iptvsystem.net/GER.jpg", 51 - ANIXE+
+http://192.168.1.190/SAT/ANIXE
+
+#EXTINF:-1 , tvg-chno="60" tvg-id="52 - SWR BW HD" tvg-logo="http://iptvsystem.net/GER.jpg", 52 - SWR BW HD
+http://192.168.1.190/SAT/SWRB
+
+#EXTINF:-1 , tvg-chno="61" tvg-id="53 - Disney Channel" tvg-logo="http://iptvsystem.net/GER.jpg", 53 - Disney Channel 
+http://192.168.1.190/SAT/DISNEYGER
+
+#EXTINF:-1 , tvg-chno="62" tvg-id="54 - N24 DOCUMENTAL" tvg-logo="http://iptvsystem.net/GER.jpg", 54 - N24 DOCUMENTAL
+http://192.168.1.190/SAT/N24DOCU
+
+#EXTINF:-1 , tvg-chno="63" tvg-id="55 - SIXX" tvg-logo="http://iptvsystem.net/GER.jpg", 55 - SIXX
+http://192.168.1.190/SAT/SIXX
+
+#EXTINF:-1 , tvg-chno="64" tvg-id="56 - TLC DOCUMENTAL" tvg-logo="http://iptvsystem.net/GER.jpg", 56 - TLC DOCUMENTAL
+http://192.168.1.190/SAT/TLC
+
+#EXTINF:-1 , tvg-chno="65" tvg-id="57 - WDR Aachen" tvg-logo="http://iptvsystem.net/GER.jpg", 57 - WDR Aachen
+http://192.168.1.190/SAT/WDRA
